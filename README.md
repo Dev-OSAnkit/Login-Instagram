@@ -1,2 +1,2 @@
 # Login-Instagram
-Login Page of Instagram 
+Instagram Login Clone: High-Fidelity Frontend & Data Capture Implementation
